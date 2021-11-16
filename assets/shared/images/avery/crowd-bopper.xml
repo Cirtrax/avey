@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd-bopper.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="10" y="10" width="1246" height="680" frameX="0" frameY="-21" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10001" x="1256" y="10" width="1246" height="682" frameX="0" frameY="-19" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10002" x="2502" y="10" width="1246" height="689" frameX="0" frameY="-12" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10003" x="10" y="699" width="1246" height="692" frameX="0" frameY="-9" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10004" x="1256" y="699" width="1246" height="696" frameX="0" frameY="-5" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10005" x="2502" y="699" width="1246" height="696" frameX="0" frameY="-5" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10006" x="10" y="1395" width="1246" height="697" frameX="0" frameY="-4" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10007" x="1256" y="1395" width="1246" height="698" frameX="0" frameY="-3" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10008" x="2502" y="1395" width="1246" height="700" frameX="0" frameY="-1" frameWidth="1246" frameHeight="701"/>
+	<SubTexture name="Symbol 10009" x="10" y="2095" width="1246" height="701"/>
+	<SubTexture name="Symbol 10010" x="10" y="2095" width="1246" height="701"/>
+</TextureAtlas>
